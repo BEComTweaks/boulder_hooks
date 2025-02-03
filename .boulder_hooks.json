@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PAPI's favourite commands",
+    "run": [
+      "cd: bp",
+      "npm install",
+      "npx tsc"
+    ],
+    "cleanup": [
+      "bp/node_modules/",
+      "bp/src/",
+      "bp/tsconfig.json",
+      "bp/package.json",
+      "bp/package-lock.json"
+    ]
+  }
+]
