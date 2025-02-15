@@ -1,6 +1,6 @@
 [
   {
-    "name": "PAPI's favourite commands",
+    "id": "papisop_likes_these_commands",
     "run": [
       "cd: bp",
       "npm install",
