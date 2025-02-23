@@ -13,5 +13,11 @@
       "bp/package.json",
       "bp/package-lock.json"
     ]
+  },
+  {
+    "id": "empty",
+    "run": [
+      "echo empty trigger"
+    ]
   }
 ]
