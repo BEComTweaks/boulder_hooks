@@ -1,6 +1,6 @@
 [
   {
-    "id": "papisop_likes_these_commands",
+    "id": "papisop_prefers_these_commands",
     "run": [
       "cd: bp",
       "npm install",
